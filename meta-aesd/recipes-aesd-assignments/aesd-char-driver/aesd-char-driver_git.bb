@@ -8,7 +8,7 @@ SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-kchojnowski
            file://aesdchar-load \
            "
 PV = "1.0+git${SRCPV}"
-SRCREV = "037b09be8f011eacaf6311c76a324092c098230f"
+SRCREV = "e9351ab954f3e486cf9e22119756accefe0bc86d"
 
 S = "${WORKDIR}/git/aesd-char-driver"
 
